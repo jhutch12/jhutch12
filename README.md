@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hey y'all 👋
 
-Test
+  My name is Jonathan Hutchins, I'm just a young guy trying to work towards his bachelor's degree in IT. I've been fiddling and playing with computers for as long as I remember,
+ so this was an easy major to choose! So far I've got a foundation in Python and Java and am about to learn a bit of C# and PHP in the near future, which I'm super excited for.
+ I'm an avid gamer, I love all games from racing and sports to mmorpg's and FPS's -- my personal (and life-long) favorite being Halo: Combat Evolved. 
+ 
+  I look forward to sharing my journey to becoming a full-fledged computer connoisseur and am looking forward to any help or feedback in the near future.
+  
+  Feel free to reach me on discord!  Jaybird#1397
 
 <!--
 **jhutch12/jhutch12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
